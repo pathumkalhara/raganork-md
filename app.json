@@ -75,7 +75,7 @@
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
-            "required": false,
+            "required": true,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
